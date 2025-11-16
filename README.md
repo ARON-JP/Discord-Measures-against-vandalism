@@ -1,7 +1,7 @@
 # Discord-Measures-against-vandalism
 This is the source code for a security bot that automatically detects specified links or users in a Discord server and applies actions such as bans, kicks, or timeouts.
 
-🇯🇵 Discord 荒らし対策 Bot
+#🇯🇵 Discord 荒らし対策 Bot#
 高機能な Discord サーバー向けの 荒らし対策 Bot です。
 すべての操作は スラッシュコマンド（/）で簡単に実行できます。
 
