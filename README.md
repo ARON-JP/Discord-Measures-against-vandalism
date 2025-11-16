@@ -20,6 +20,7 @@ This is the source code for a security bot that automatically detects specified 
 ターミナル（またはコマンドプロンプト）で以下を実行：
 
 pip install -U discord.py
+pip install aiohttp
 ## 3. Bot ファイルのダウンロード
 main.zip をダウンロードし、任意の場所で解凍してください。
 
