@@ -22,7 +22,7 @@ This is the source code for a security bot that automatically detects specified 
 pip install -U discord.py
 pip install aiohttp
 ## 3. Bot ファイルのダウンロード
-main.zip をダウンロードし、任意の場所で解凍してください。
+beta.zip をダウンロードし、任意の場所で解凍してください。
 
 ## 4. Bot トークンの設定
 解凍フォルダ内の config.json を開き、
@@ -66,7 +66,7 @@ Ensure Python is installed on your system.
 ## 2. Install Dependencies
 pip install -U discord.py
 ## 3. Download the Bot Files
-Download main.zip and extract it anywhere.
+Download beta.zip and extract it anywhere.
 
 ## 4. Configure Your Bot Token
 Open config.json and replace:
